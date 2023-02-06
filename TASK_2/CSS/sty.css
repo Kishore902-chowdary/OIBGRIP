@@ -1,0 +1,102 @@
+
+nav ul li{
+	text-decoration: none;
+	display:inline-block;
+	list-style:none;
+	align-content: right;
+	margin:10pt;
+	border:30pt;
+	size:40;
+
+}
+.img_al{
+	padding-left: 50pt;
+	border-radius: 40pt;
+}
+nav ul li a{
+	text-decoration: none;
+	color:black;
+}
+nav button{
+	background-color: gray;
+	border:50pt;
+	margin:10pt;
+	border-radius:20pt;
+
+}
+
+section.inde{
+	background-color: lightblue;
+}
+.nhed{
+	padding-left: 30pt;
+	text-justify: inherit;
+	margin: 50pt;
+	color:darkseagreen;
+	font-size:30pt;
+}
+button:hover{
+	transform:translateY(5pt);
+
+}
+div.story{
+	float:right;
+	background-color: lightgray;
+	border-radius: 30pt;
+
+}
+div div.conte{
+	padding-right:30pt;
+}
+
+#mys_h{
+	padding-right: 50pt;
+	margin-right: 100pt;
+
+}
+button.cv{
+	margin-left:90pt;
+	margin-top:150pt;
+	border-radius: 30pt;
+
+}
+table tr td a{
+	text-decoration: none;
+}
+button a{
+	text-decoration: none;
+	color:brown;
+}
+#skills{
+	background-color: lightsteelblue;
+	text-decoration: none;
+
+}
+.edu{
+	background-color:lightgray;
+}
+.edut{
+	font-size:15pt ;
+}
+.proj{
+	background-color:lightgray;
+}
+.flo{
+	font-size: 20pt;
+}
+.prop{
+	font-size: 15pt;
+}
+.follow{
+	background-color: lightblue;
+}
+.header{
+	background-color:lemonchiffon;
+	border-radius: 50pts;
+	font-style: revert;
+
+}
+
+
+
+
